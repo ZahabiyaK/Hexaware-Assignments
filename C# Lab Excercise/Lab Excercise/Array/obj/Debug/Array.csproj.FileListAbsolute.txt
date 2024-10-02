@@ -1,0 +1,7 @@
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\bin\Debug\Array.exe.config
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\bin\Debug\Array.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\bin\Debug\Array.pdb
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\obj\Debug\Array.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\Array\obj\Debug\Array.pdb

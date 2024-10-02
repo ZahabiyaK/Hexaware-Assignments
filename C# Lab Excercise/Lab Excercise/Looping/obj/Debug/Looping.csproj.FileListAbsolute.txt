@@ -1,0 +1,7 @@
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\bin\Debug\Looping.exe.config
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\bin\Debug\Looping.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\bin\Debug\Looping.pdb
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\obj\Debug\Looping.csproj.AssemblyReference.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\obj\Debug\Looping.csproj.CoreCompileInputs.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\obj\Debug\Looping.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\Looping\obj\Debug\Looping.pdb
