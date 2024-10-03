@@ -33,7 +33,17 @@ namespace Array
 
             //Write a program to display sum of diagonal elements(bold elements) of given array.
 
+            Int32[,] MultiArr = {
+                {10,20,30 },
+                {40,50,60 },
+                {70,80,90 }
+            };
 
+            Console.WriteLine("Sum of all diagonal elements: ");
+            for (int i = 0; i < MultiArr.GetLength(0); i++)
+            {
+                
+            }
 
             //Write a program to search element from jagged array.
 
