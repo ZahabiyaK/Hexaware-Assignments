@@ -1,0 +1,7 @@
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe.config
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\bin\Debug\DateTimeManipulation.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\bin\Debug\DateTimeManipulation.pdb
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\obj\Debug\DateTimeManipulation.csproj.AssemblyReference.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\obj\Debug\DateTimeManipulation.csproj.CoreCompileInputs.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\obj\Debug\DateTimeManipulation.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\DateTimeManipulation\obj\Debug\DateTimeManipulation.pdb

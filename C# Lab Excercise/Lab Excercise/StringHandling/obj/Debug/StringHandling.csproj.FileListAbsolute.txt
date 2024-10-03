@@ -1,0 +1,7 @@
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\bin\Debug\StringHandling.exe.config
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\bin\Debug\StringHandling.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\bin\Debug\StringHandling.pdb
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\obj\Debug\StringHandling.csproj.AssemblyReference.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\obj\Debug\StringHandling.csproj.CoreCompileInputs.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\obj\Debug\StringHandling.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\StringHandling\obj\Debug\StringHandling.pdb

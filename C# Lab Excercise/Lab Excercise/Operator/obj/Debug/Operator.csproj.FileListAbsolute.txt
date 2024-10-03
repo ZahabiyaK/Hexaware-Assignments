@@ -1,0 +1,7 @@
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\bin\Debug\Operator.exe.config
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\bin\Debug\Operator.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\bin\Debug\Operator.pdb
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\obj\Debug\Operator.csproj.AssemblyReference.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\obj\Debug\Operator.csproj.CoreCompileInputs.cache
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\obj\Debug\Operator.exe
+Z:\Hexaware Training\C# Training\Lab Excercise\Operator\obj\Debug\Operator.pdb

@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBC07D9C-A872-4A3D-A2D8-C4FC8F3EFA0E}|Looping\\Looping.csproj|z:\\hexaware training\\c# training\\lab excercise\\looping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D86DF7B-0737-4EEA-89EC-C4F1EF7F66B3}|DateTimeManipulation\\DateTimeManipulation.csproj|Z:\\Hexaware Training\\C# Training\\Lab Excercise\\datetimemanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D86DF7B-0737-4EEA-89EC-C4F1EF7F66B3}|DateTimeManipulation\\DateTimeManipulation.csproj|solutionrelative:datetimemanipulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FCD68BD-F0DE-4EB6-80DA-BBDC359A27EC}|Operator\\Operator.csproj|Z:\\Hexaware Training\\C# Training\\Lab Excercise\\operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FCD68BD-F0DE-4EB6-80DA-BBDC359A27EC}|Operator\\Operator.csproj|solutionrelative:operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DF8D69-07BA-4F18-A4F9-2AC6E174EB40}|StringHandling\\StringHandling.csproj|z:\\hexaware training\\c# training\\lab excercise\\stringhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6DF8D69-07BA-4F18-A4F9-2AC6E174EB40}|StringHandling\\StringHandling.csproj|solutionrelative:stringhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF30739D-68FB-4B60-8146-953FA70510B6}|Array\\Array.csproj|Z:\\Hexaware Training\\C# Training\\Lab Excercise\\array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF30739D-68FB-4B60-8146-953FA70510B6}|Array\\Array.csproj|solutionrelative:array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC07D9C-A872-4A3D-A2D8-C4FC8F3EFA0E}|Looping\\Looping.csproj|Z:\\Hexaware Training\\C# Training\\Lab Excercise\\looping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBC07D9C-A872-4A3D-A2D8-C4FC8F3EFA0E}|Looping\\Looping.csproj|solutionrelative:looping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +30,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\StringHandling\\Program.cs",
+              "RelativeDocumentMoniker": "StringHandling\\Program.cs",
+              "ToolTip": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\StringHandling\\Program.cs",
+              "RelativeToolTip": "StringHandling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:36:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\Array\\Program.cs",
+              "RelativeDocumentMoniker": "Array\\Program.cs",
+              "ToolTip": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\Array\\Program.cs",
+              "RelativeToolTip": "Array\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:33:19.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\Operator\\Program.cs",
+              "RelativeDocumentMoniker": "Operator\\Program.cs",
+              "ToolTip": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\Operator\\Program.cs",
+              "RelativeToolTip": "Operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:32:00.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\DateTimeManipulation\\Program.cs",
+              "RelativeDocumentMoniker": "DateTimeManipulation\\Program.cs",
+              "ToolTip": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\DateTimeManipulation\\Program.cs",
+              "RelativeToolTip": "DateTimeManipulation\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:31:02.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\Looping\\Program.cs",
               "RelativeDocumentMoniker": "Looping\\Program.cs",
               "ToolTip": "Z:\\Hexaware Training\\C# Training\\Lab Excercise\\Looping\\Program.cs",
               "RelativeToolTip": "Looping\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAwEEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T09:53:11.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T09:53:11.257Z"
             }
           ]
         }
