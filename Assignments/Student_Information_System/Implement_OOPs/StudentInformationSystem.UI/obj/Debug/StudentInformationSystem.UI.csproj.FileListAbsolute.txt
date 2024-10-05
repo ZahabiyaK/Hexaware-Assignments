@@ -1,0 +1,12 @@
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe.config
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.exe
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.UI.pdb
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BuisnessLayer.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.BuisnessLayer.pdb
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\bin\Debug\StudentInformationSystem.Entity.pdb
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.AssemblyReference.cache
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.csproj.CoreCompileInputs.cache
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\obj\Debug\StudentI.AD107B09.Up2Date
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.exe
+Z:\Hexaware\Hexaware-Assignments\Assignments\Student_Information_System\Implement_OOPs\StudentInformationSystem.UI\obj\Debug\StudentInformationSystem.UI.pdb
