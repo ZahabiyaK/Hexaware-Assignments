@@ -10,6 +10,8 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
     public class PaymentRepository : IPaymentRepository
     {
         Payment p = new Payment();
+
+        //Task 2 and 3
         public PaymentRepository(int payment_id,decimal amount,string date) {
             p.PaymentID = payment_id;
             p.Amount = amount;
@@ -27,7 +29,8 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
 
         public void GetStudent()
         {
-            
+            StudentRepository s = new StudentRepository(p.StudentID);
+            s.DisplayStudentInfo();
         }
     }
 }

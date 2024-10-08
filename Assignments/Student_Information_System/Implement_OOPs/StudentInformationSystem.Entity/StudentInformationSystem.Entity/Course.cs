@@ -12,6 +12,6 @@ namespace StudentInformationSystem.Entity
         public int CourseID { get; set; }
         public string CourseName { get; set; }
         public string CourseCode { get; set; }
-        public string InstructorName { get; set; }
+        public int TeacherID { get; set; }
     }
 }

@@ -44,13 +44,13 @@ namespace StudentInformationSystem.UI
             int course_id = Convert.ToInt32(Console.ReadLine());
             string course_name = Console.ReadLine();
             string course_code = Console.ReadLine();
-            string instructor = Console.ReadLine();
+            int teacher_id = Convert.ToInt32(Console.ReadLine());
 
-            CourseRepository course_repository = new CourseRepository(course_id, course_name, course_code, instructor); 
+            CourseRepository course_repository = new CourseRepository(course_id, course_name, course_code, teacher_id); 
             CourseService course_service = new CourseService(course_repository);
 
             course_service.DisplayCourseInfo();
-            course_service.UpdateCourseInfo("CS501", "OOPs Concept", "Varsha");
+            course_service.UpdateCourseInfo("CS501", "OOPs Concept", 121);
             course_service.DisplayCourseInfo();
 
             // ****************************Enrollment Details***************************

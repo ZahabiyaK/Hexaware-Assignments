@@ -18,7 +18,7 @@ namespace StudentInformationSystem.BuisnessLayer.Services
         }
         public void EnrollInCourse(Course course)
         {
-            _studentRepository.EnrollInCourse(course);
+            _studentRepository.EnrollInCourse( course);
         }
 
         public void UpdateStudentInfo(string firstName, string lastName, string dateOfBirth, string email, string phoneNumber)

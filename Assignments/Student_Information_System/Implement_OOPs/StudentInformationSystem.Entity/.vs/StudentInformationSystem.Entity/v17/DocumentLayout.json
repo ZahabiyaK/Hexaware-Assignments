@@ -3,19 +3,48 @@
   "WorkspaceRootPath": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{321F31A9-5C9F-407E-B4BD-B76195D80E18}|..\\StudentInformationSystem.UI\\StudentInformationSystem.UI.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\repository\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.entity\\studentinformationsystem.entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|solutionrelative:studentinformationsystem.entity\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\repository\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\repository\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.entity\\studentinformationsystem.entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|solutionrelative:studentinformationsystem.entity\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535865C0-C5EE-48FE-BCFE-0DE0B1A74EC6}|..\\StudentInformationSystem.BuisnessLayer\\StudentInformationSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.buisnesslayer\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.entity\\studentinformationsystem.entity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|solutionrelative:studentinformationsystem.entity\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.entity\\studentinformationsystem.entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|solutionrelative:studentinformationsystem.entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\student_information_system\\implement_oops\\studentinformationsystem.entity\\studentinformationsystem.entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4074CDD2-0499-414E-8735-A3574CC17642}|StudentInformationSystem.Entity\\StudentInformationSystem.Entity.csproj|solutionrelative:studentinformationsystem.entity\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,75 +54,179 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Services\\ICourseService.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\ICourseService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Services\\ICourseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:04:46.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Services\\CourseService.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\CourseService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Services\\CourseService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:04:06.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:03:18.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.UI\\Program.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.UI\\Program.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.UI\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwDQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:00:07.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\EnrollmentRepository.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\EnrollmentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:57:43.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\TeacherRepository.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\TeacherRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\TeacherRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:50:23.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:43:07.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Payment.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystem.Entity\\Payment.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Payment.cs",
+              "RelativeToolTip": "StudentInformationSystem.Entity\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:41:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\CourseRepository.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\CourseRepository.cs",
+              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\CourseRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:39:42.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Course.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystem.Entity\\Course.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Course.cs",
+              "RelativeToolTip": "StudentInformationSystem.Entity\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:39:48.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Student.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystem.Entity\\Student.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Student.cs",
+              "RelativeToolTip": "StudentInformationSystem.Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:41:56.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Enrollment.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystem.Entity\\Enrollment.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Enrollment.cs",
+              "RelativeToolTip": "StudentInformationSystem.Entity\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:41:55.266Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.UI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\StudentInformationSystem.UI\\Program.cs",
-              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.UI\\Program.cs",
-              "RelativeToolTip": "..\\StudentInformationSystem.UI\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Teacher.cs",
+              "RelativeDocumentMoniker": "StudentInformationSystem.Entity\\Teacher.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.Entity\\StudentInformationSystem.Entity\\Teacher.cs",
+              "RelativeToolTip": "StudentInformationSystem.Entity\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:40:49.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
-              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
-              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:40:18.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IStudentService.cs",
-              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\IStudentService.cs",
-              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Services\\IStudentService.cs",
-              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Services\\IStudentService.cs",
-              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Services\\IStudentService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:38:49.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\IStudentRepository.cs",
-              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\IStudentRepository.cs",
-              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:36:54.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentRepository.cs",
-              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs",
-              "RelativeDocumentMoniker": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs",
-              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Student_Information_System\\Implement_OOPs\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs*",
-              "RelativeToolTip": "..\\StudentInformationSystem.BuisnessLayer\\Repository\\StudentRepository.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T11:08:35.653Z",
+              "WhenOpened": "2024-10-08T11:39:46.503Z",
               "EditorCaption": ""
             }
           ]

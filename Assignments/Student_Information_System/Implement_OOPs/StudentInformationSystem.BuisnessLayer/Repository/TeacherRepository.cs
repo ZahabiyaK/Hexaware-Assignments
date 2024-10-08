@@ -10,11 +10,16 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
     public class TeacherRepository : ITeacherRepository
     {
         Teacher t = new Teacher();
+
+        //Task 2 and 3
         public TeacherRepository(int teacher_id, string first_name, string last_name, string email) {
             t.TeacherID = teacher_id;
             t.FirstName = first_name;
             t.LastName = last_name;
             t.Email = email;
+        }
+        public TeacherRepository( int id) { 
+            t.TeacherID = id;
         }
         public void DisplayTeacherInfo()
         {

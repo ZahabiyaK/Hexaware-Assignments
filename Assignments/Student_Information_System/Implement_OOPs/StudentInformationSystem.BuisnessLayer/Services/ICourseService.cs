@@ -10,7 +10,7 @@ namespace StudentInformationSystem.BuisnessLayer.Services
     internal interface ICourseService
     {
         void AssignTeacher(Teacher teacher);
-        void UpdateCourseInfo(string courseCode, string courseName, string instructor);
+        void UpdateCourseInfo(string courseCode, string courseName, int teacherId);
         void DisplayCourseInfo();
         void GetEnrollments();
         void GetTeacher();

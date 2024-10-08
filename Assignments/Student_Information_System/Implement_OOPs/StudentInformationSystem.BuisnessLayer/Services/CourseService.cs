@@ -20,9 +20,9 @@ namespace StudentInformationSystem.BuisnessLayer.Services
         {
             _courseRepository.AssignTeacher(teacher);
         }
-        public void UpdateCourseInfo(string courseCode, string courseName, string instructor)
+        public void UpdateCourseInfo(string courseCode, string courseName, int teacherId)
         {
-            _courseRepository.UpdateCourseInfo(courseCode, courseName, instructor);
+            _courseRepository.UpdateCourseInfo(courseCode, courseName, teacherId);
         }
         public void DisplayCourseInfo()
         {

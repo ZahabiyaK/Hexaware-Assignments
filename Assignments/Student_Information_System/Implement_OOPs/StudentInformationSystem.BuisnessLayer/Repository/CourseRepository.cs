@@ -10,27 +10,33 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
     public class CourseRepository : ICourseRepository
     {
         Course c = new Course();
-        public CourseRepository(int course_id,string course_name,string course_code, string instructor) { 
+
+        //Task 2 and 3
+        public CourseRepository(int course_id,string course_name,string course_code, int teacher_id) { 
             c.CourseID = course_id;
             c.CourseName = course_name;
             c.CourseCode = course_code;
-            c.InstructorName = instructor;
+            c.TeacherID = teacher_id;
         }
 
+        public CourseRepository(int id) {
+            c.CourseID=id;
+        }
         public void AssignTeacher(Teacher teacher)
         {
+            c.TeacherID=teacher.TeacherID;
             
         }
-        public void UpdateCourseInfo(string courseCode, string courseName, string instructor)
+        public void UpdateCourseInfo(string courseCode, string courseName, int teacherId)
         {
             c.CourseCode=courseCode;
             c.CourseName=courseName;
-            c.InstructorName=instructor;
+            c.TeacherID=teacherId;
         }
         public void DisplayCourseInfo()
         {
             Console.WriteLine("Displaying Course Information:");
-            Console.WriteLine($"{c.CourseID}\t{c.CourseName}\t{c.CourseCode}\t{c.InstructorName}");
+            Console.WriteLine($"{c.CourseID}\t{c.CourseName}\t{c.CourseCode}\t{c.TeacherID}");
         }
 
         public void GetEnrollments()
@@ -40,6 +46,8 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
 
         public void GetTeacher()
         {
+            TeacherRepository t = new TeacherRepository(c.TeacherID);
+            t.DisplayTeacherInfo();
             
         }
 

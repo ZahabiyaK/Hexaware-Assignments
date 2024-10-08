@@ -9,6 +9,7 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
 {
     public class EnrollmentRepository : IEnrollmentRepository
     {
+        //Task 2 and 3
         Enrollment e = new Enrollment();
         public EnrollmentRepository(int enroll_id, int student_id,int course_id, DateTime enrollDate)
         {
@@ -17,14 +18,17 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
             e.CourseID = course_id;
             e.EnrollmentDate = enrollDate;
         }
-        public void GetCourse()
-        {
-            
-        }
-
         public void GetStudent()
         {
-            
+            StudentRepository s = new StudentRepository(e.StudentID);
+            s.DisplayStudentInfo();
         }
+        public void GetCourse()
+        {
+            CourseRepository c = new CourseRepository(e.CourseID);
+            c.DisplayCourseInfo();
+        }
+
+       
     }
 }

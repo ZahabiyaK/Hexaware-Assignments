@@ -12,7 +12,10 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
         Student s = new Student();
         Payment p = new Payment();
         Course c = new Course();
-       public StudentRepository(int id, string first_name, string last_name, string DOB, string email, string phone_num) 
+        Enrollment e = new Enrollment();
+
+        //Task 2 and 3
+        public StudentRepository(int id, string first_name, string last_name, string DOB, string email, string phone_num) 
         {
             s.StudentID = id;
             s.FirstName = first_name;
@@ -21,6 +24,11 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
             s.Email = email;
             s.PhoneNumber = phone_num;
         }
+
+        public StudentRepository(int id)
+        {
+            s.StudentID = id;
+        }
         public void DisplayStudentInfo()
         {
             Console.WriteLine("Student Repository- Display method");
@@ -28,9 +36,10 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
             Console.WriteLine($"{s.StudentID}\t{s.FirstName}\t{s.LastName}\t{s.DateOfBirth}\t{s.Email}\t{s.PhoneNumber}");
         }
 
+
         public void EnrollInCourse(Course course)
         {
-            course.CourseID = course.CourseID;
+            course.CourseID = e.CourseID;
         }
 
         public void GetEnrolledCourses()
