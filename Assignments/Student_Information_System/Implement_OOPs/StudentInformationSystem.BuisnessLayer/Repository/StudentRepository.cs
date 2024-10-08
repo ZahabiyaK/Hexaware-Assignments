@@ -39,7 +39,7 @@ namespace StudentInformationSystem.BuisnessLayer.Repository
 
         public void EnrollInCourse(Course course)
         {
-            course.CourseID = e.CourseID;
+           e.CourseID = course.CourseID;
         }
 
         public void GetEnrolledCourses()
