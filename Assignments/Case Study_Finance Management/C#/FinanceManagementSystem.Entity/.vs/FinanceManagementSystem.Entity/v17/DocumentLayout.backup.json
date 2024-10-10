@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53810BEA-6DE6-45ED-87BC-C5AD59E28B0C}|FinanceManagementSystem.UI\\FinanceManagementSystem.UI.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\case study_finance management\\c#\\financemanagementsystem.entity\\financemanagementsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53810BEA-6DE6-45ED-87BC-C5AD59E28B0C}|FinanceManagementSystem.UI\\FinanceManagementSystem.UI.csproj|solutionrelative:financemanagementsystem.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\financemanagementsystem.buisnesslayer\\repository\\financerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|solutionrelative:financemanagementsystem.buisnesslayer\\repository\\financerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\case study_finance management\\c#\\financemanagementsystem.entity\\financemanagementsystem.buisnesslayer\\repository\\ifinancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|solutionrelative:financemanagementsystem.buisnesslayer\\repository\\ifinancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\case study_finance management\\c#\\financemanagementsystem.entity\\financemanagementsystem.buisnesslayer\\service\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|solutionrelative:financemanagementsystem.buisnesslayer\\service\\ifinanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\financemanagementsystem.buisnesslayer\\service\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|solutionrelative:financemanagementsystem.buisnesslayer\\service\\financeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|z:\\hexaware\\hexaware-assignments\\assignments\\case study_finance management\\c#\\financemanagementsystem.entity\\financemanagementsystem.buisnesslayer\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF55D8D3-552A-4ADF-AE15-5A5E8A744B48}|FinanceManagementSystem.BuisnessLayer\\FinanceManagementSystem.BuisnessLayer.csproj|solutionrelative:financemanagementsystem.buisnesslayer\\dbutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7461E3C-58EB-49D7-B28E-B156A44FA55C}|FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity.csproj|Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\financemanagementsystem.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7461E3C-58EB-49D7-B28E-B156A44FA55C}|FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity.csproj|solutionrelative:financemanagementsystem.entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7461E3C-58EB-49D7-B28E-B156A44FA55C}|FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity.csproj|Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\financemanagementsystem.entity\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7461E3C-58EB-49D7-B28E-B156A44FA55C}|FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity.csproj|solutionrelative:financemanagementsystem.entity\\expensecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7461E3C-58EB-49D7-B28E-B156A44FA55C}|FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity.csproj|Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\financemanagementsystem.entity\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7461E3C-58EB-49D7-B28E-B156A44FA55C}|FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity.csproj|solutionrelative:financemanagementsystem.entity\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFinanceService.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Service\\IFinanceService.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.BuisnessLayer\\Service\\IFinanceService.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Service\\IFinanceService.cs",
+              "RelativeToolTip": "FinanceManagementSystem.BuisnessLayer\\Service\\IFinanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:34:17.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFinanceRepository.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Repository\\IFinanceRepository.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.BuisnessLayer\\Repository\\IFinanceRepository.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Repository\\IFinanceRepository.cs",
+              "RelativeToolTip": "FinanceManagementSystem.BuisnessLayer\\Repository\\IFinanceRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:34:01.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBUtil.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\DBUtil.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.BuisnessLayer\\DBUtil.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\DBUtil.cs",
+              "RelativeToolTip": "FinanceManagementSystem.BuisnessLayer\\DBUtil.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwA4AAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T03:19:06.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.UI\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.UI\\Program.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.UI\\Program.cs",
+              "RelativeToolTip": "FinanceManagementSystem.UI\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:21:25.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FinanceService.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Service\\FinanceService.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.BuisnessLayer\\Service\\FinanceService.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Service\\FinanceService.cs",
+              "RelativeToolTip": "FinanceManagementSystem.BuisnessLayer\\Service\\FinanceService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:11:19.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinanceRepository.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Repository\\FinanceRepository.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.BuisnessLayer\\Repository\\FinanceRepository.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.BuisnessLayer\\Repository\\FinanceRepository.cs",
+              "RelativeToolTip": "FinanceManagementSystem.BuisnessLayer\\Repository\\FinanceRepository.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAmwG8AAAC1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:09:18.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExpenseCategory.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity\\ExpenseCategory.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.Entity\\ExpenseCategory.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity\\ExpenseCategory.cs",
+              "RelativeToolTip": "FinanceManagementSystem.Entity\\ExpenseCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:02:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity\\Expense.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.Entity\\Expense.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity\\Expense.cs",
+              "RelativeToolTip": "FinanceManagementSystem.Entity\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T16:02:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity\\User.cs",
+              "RelativeDocumentMoniker": "FinanceManagementSystem.Entity\\User.cs",
+              "ToolTip": "Z:\\Hexaware\\Hexaware-Assignments\\Assignments\\Case Study_Finance Management\\C#\\FinanceManagementSystem.Entity\\FinanceManagementSystem.Entity\\User.cs",
+              "RelativeToolTip": "FinanceManagementSystem.Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T15:53:52.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

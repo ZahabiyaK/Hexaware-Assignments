@@ -25,3 +25,9 @@ Create Table Expenses(
 	Foreign Key(user_id) References Users(user_id),
 	Foreign Key(category_id) References ExpenseCategories(category_id)
 );
+
+select * from Users;
+/*delete from Users;
+drop table Users;
+drop table Expenses;
+drop table ExpenseCategories; */

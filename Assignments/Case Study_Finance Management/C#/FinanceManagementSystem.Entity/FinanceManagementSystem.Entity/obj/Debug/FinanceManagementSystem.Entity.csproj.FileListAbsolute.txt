@@ -1,0 +1,6 @@
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.Entity\bin\Debug\FinanceManagementSystem.Entity.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.Entity\bin\Debug\FinanceManagementSystem.Entity.pdb
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.csproj.AssemblyReference.cache
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.csproj.CoreCompileInputs.cache
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.Entity\obj\Debug\FinanceManagementSystem.Entity.pdb

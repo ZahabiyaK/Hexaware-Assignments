@@ -1,0 +1,9 @@
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\bin\Debug\FinanceManagementSystem.DatabaseLayer.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\bin\Debug\FinanceManagementSystem.DatabaseLayer.pdb
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\bin\Debug\FinanceManagementSystem.Entity.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\bin\Debug\FinanceManagementSystem.Entity.pdb
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\obj\Debug\FinanceManagementSystem.DatabaseLayer.csproj.AssemblyReference.cache
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\obj\Debug\FinanceManagementSystem.DatabaseLayer.csproj.CoreCompileInputs.cache
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\obj\Debug\FinanceM.5239D25C.Up2Date
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\obj\Debug\FinanceManagementSystem.DatabaseLayer.dll
+Z:\Hexaware\Hexaware-Assignments\Assignments\Case Study_Finance Management\C#\FinanceManagementSystem.Entity\FinanceManagementSystem.DatabaseLayer\obj\Debug\FinanceManagementSystem.DatabaseLayer.pdb
